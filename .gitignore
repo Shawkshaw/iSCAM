@@ -121,3 +121,6 @@ Thumbs.db
 
 .RData
 .RHistory
+
+#Herring data files
+.dat
